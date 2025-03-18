@@ -16,3 +16,10 @@ I'm excited to share my recent project—a Human Resources Dashboard built using
 
 💡 Provided insights into hiring patterns and salary distributions, optimizing workforce planning strategies.
 This project was an excellent opportunity to leverage Tableau’s advanced visualization features and demonstrate how data storytelling can empower businesses.
+
+## Checkout the snapshots below:
+
+![Screenshot 2025-01-05 at 21 10 26](https://github.com/user-attachments/assets/5b7c59aa-665f-4fcb-8bd6-e6f90d144377)
+![Screenshot 2025-01-05 at 21 09 45](https://github.com/user-attachments/assets/a05e2f09-e00f-48e4-99f2-94e11b09ec4f)
+![Screenshot 2025-01-05 at 21 09 10](https://github.com/user-attachments/assets/19945aec-8444-4e92-8978-04dbf775023b)
+![Screenshot 2025-01-05 at 21 08 42](https://github.com/user-attachments/assets/13f43c66-21c7-4d59-b6de-dfa4ccdf6254)
