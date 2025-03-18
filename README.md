@@ -4,10 +4,15 @@ I'm excited to share my recent project—a Human Resources Dashboard built using
 
 ## Key Features & Technical Highlights:
 ✅ Tooltips & KPIs: Implemented custom tooltips to provide dynamic insights into key metrics, such as hiring rates, terminations, and department-wise performance.
+
 ✅ Parameter Controls & Filters: Designed interactive filters for gender, location, and hire date, allowing users to drill down into specific data segments.
+
 ✅ Calculated Fields: Utilized Tableau calculated fields to dynamically compute metrics, enabling insights like salary vs age trends and education-based performance analysis.
+
 ✅ Geospatial Analysis: Integrated map visualizations to track location-based hiring trends and distribution.
+
 ✅ Scatterplots & Heatmaps: Designed scatterplots for salary vs age analysis and heatmaps for performance metrics to highlight patterns.
+
 ✅ Dashboard Actions: Added highlight and filter actions to create seamless interactivity between charts, enabling faster decision-making.
 
 ## Impact:
